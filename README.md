@@ -46,7 +46,7 @@ I'm also a singer! 🎵 I write code by day and hit high notes by night 🎤
 
 ## 📊 GitHub Stats
 
-![Tiyasa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiyasa-Mukherjee&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Tiyasa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tiyasa-Mukherjee&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Tiyasa-Mukherjee&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiyasa-Mukherjee&layout=compact&theme=radical&count_private=true)
@@ -55,7 +55,7 @@ I'm also a singer! 🎵 I write code by day and hit high notes by night 🎤
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tiyasa-Mukherjee&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Tiyasa-Mukherjee&theme=radical&margin-w=4)
 
 ---
 
